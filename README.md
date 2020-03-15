@@ -14,5 +14,6 @@ export default class Component extends LightningElement {
    */
   static defaultClassList = 'my-component-class';
   static visibleClassList = 'my-component-class-visible';
+}
 ```
 
